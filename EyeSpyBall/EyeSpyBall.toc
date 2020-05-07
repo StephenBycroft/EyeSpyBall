@@ -1,0 +1,9 @@
+## Interface: 80300
+## Title: EyeSpyBall
+## Author: Flaym
+## Notes: "Literally 10 eyeballs have spawned in the past 12 seconds I promise"
+## Version: 0.2
+## SavedVariablesPerCharacter: completeEyeDataSet
+
+EyeSpyBall.lua
+EyeSpyBall.xml
